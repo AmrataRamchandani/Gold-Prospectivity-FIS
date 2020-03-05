@@ -1,0 +1,1 @@
+201904132027   0     0     0MAITREYA1 E:\Arunta Data\Temp\FuzzyMe_Fau_E = CON((E:\Arunta Data\Temp\EucDist_Faul - 2000.000000) / 3000.000000 < 0 , 0, CON((E:\Arunta Data\Temp\EucDist_Faul - 2000.000000) / 3000.000000 > 1, 1, (E:\Arunta Data\Temp\EucDist_Faul - 2000.000000) / 3000.000000))
